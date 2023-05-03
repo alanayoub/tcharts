@@ -26,3 +26,5 @@ Also if you plan on using this in an older browser you will need to polyfill som
 Usage
 -----
 See examples
+
+![_Users_alan_Downloads_tcharts-master_test_index html](https://user-images.githubusercontent.com/372636/235881250-475a4650-2cbc-4138-b37a-0d72c7603e87.png)
