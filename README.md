@@ -21,8 +21,4 @@ Raphaël and at the moment jQuery, I'm planning on removing the jQuery dependenc
 
 Also if you plan on using this in an older browser you will need to polyfill some ES5 stuff like **map**, **filter**, **reduce** etc.
 
-Usage
------
-See examples
-
 ![_Users_alan_Downloads_tcharts-master_test_index html](https://user-images.githubusercontent.com/372636/235881250-475a4650-2cbc-4138-b37a-0d72c7603e87.png)
