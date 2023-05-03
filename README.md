@@ -15,7 +15,7 @@ Features
 * Tests
 * Configuration options for spacing, colours etc
 
-[Examples](http://timetriclabs.bitbucket.org/tcharts/test/ "TCharts examples")
+[Examples](https://alanayoub.github.io/tcharts/index.html "TCharts examples")
 
 Requirements
 ------------
