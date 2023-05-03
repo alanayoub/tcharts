@@ -15,8 +15,6 @@ Features
 * Tests
 * Configuration options for spacing, colours etc
 
-[Examples](https://alanayoub.github.io/tcharts/test/index.html "TCharts examples")
-
 Requirements
 ------------
 Raphaël and at the moment jQuery, I'm planning on removing the jQuery dependency however, it's barely used.
