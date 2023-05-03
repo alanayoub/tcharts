@@ -15,7 +15,7 @@ Features
 * Tests
 * Configuration options for spacing, colours etc
 
-[Examples](https://alanayoub.github.io/tcharts/index.html "TCharts examples")
+[Examples](https://alanayoub.github.io/tcharts/test/index.html "TCharts examples")
 
 Requirements
 ------------
